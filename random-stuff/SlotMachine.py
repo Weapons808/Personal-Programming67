@@ -5,7 +5,7 @@ def EndScene():
     print("Narration:", "You ran out of money. Since the owner of this slot machine is satan himself, you see him appear from the depths of hell.")
     print("you - ", "OH MY GOODNESS HELP")
     print("satan -", "you're cooked buddy. you'll pay off that debt somehow.")
-    print("*gets dragged to hell*1")
+    print("*gets dragged to hell*")
     print("you died lmao")
 
 PlayerMoney = 1000
