@@ -6,7 +6,6 @@ Lives = 5
 WordsAndLettersDictionary = {"Apple" : 5, "House" : 5, "River" : 5, "Planet" : 6, "Garden" : 6, "School" : 6, "Rainbow" : 7, "Mountain" : 8, "Sunshine" : 8, "Computer" : 8}
 WordUnderscores = ["_ _ _ _ _", "_ _ _ _ _ _", "_ _ _ _ _ _ _", "_ _ _ _ _ _ _ _"]
 
-#edfegfdsgfdgfdsgdfsgdfsgdfsg
 def welcomeInterface():
     Play1 = input("Press 1 to start, or type 'QUIT' at any time to end program ")
     Play1 = Play1.capitalize()
